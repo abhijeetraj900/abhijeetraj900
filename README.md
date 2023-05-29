@@ -2,7 +2,7 @@
 <h3 align="flex-start">I am currently a third-year student pursuing a degree in Computer Science at Sagar Institute of Research Technology and Science in Bhopal. Through my studies, I am gaining a deep understanding of the theoretical and practical foundations of computer science, including programming languages, data structures, algorithms, and software development methodologies.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on ScopeSeeker<br>👯 I’m looking to collaborate on ScopeSeeker<br>🤝 I’m looking for help with typescript and react<br>🌱 I’m currently learning React , Nextjs and Ty[esript<br>💬 Ask me about Data Strucure and Web Dev<br>⚡ Focus on Goal
+🔭 I’m currently working on ScopeSeeker<br>👯 I’m looking to collaborate on ScopeSeeker<br>🤝 I’m looking for help with typescript and react<br>🌱 I’m currently learning React , Nextjs and TypeScript<br>💬 Ask me about Data Strucure and Web Dev<br>⚡ Focus on Goal
 
 
 ## 🌐 Socials:
